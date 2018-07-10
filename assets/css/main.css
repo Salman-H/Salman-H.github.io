@@ -1,14 +1,12 @@
 @import url(font-awesome.min.css);
 /*@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,Semi-Bold,300italic,400italic,500italic,700italic,700,400,300");*/
-
 @font-face {src: url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,Semi-Bold,300italic,400italic,500italic,700italic,700,400,300"); }
-
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro");
-@import url("https://fonts.googleapis.com/css?family=Crimson+Text");
-@import url("https://fonts.googleapis.com/css?family=Radley");
-@import url("https://fonts.googleapis.com/css?family=Volkov");
-@import url("https://fonts.googleapis.com/css?family=PT+Serif");
-@import url("https://fonts.googleapis.com/css?family=Oswald");
+@font-face {src: @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro"); }
+@font-face {src: @import url("https://fonts.googleapis.com/css?family=Crimson+Text"); }
+@font-face {src: @import url("https://fonts.googleapis.com/css?family=Radley"); }
+@font-face {src: @import url("https://fonts.googleapis.com/css?family=Volkov"); }
+@font-face {src: @import url("https://fonts.googleapis.com/css?family=PT+Serif"); }
+@font-face {src: @import url("https://fonts.googleapis.com/css?family=Oswald"); }
 html,
 body,
 div,
